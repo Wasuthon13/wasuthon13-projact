@@ -189,6 +189,7 @@ $resul = mysqli_query($con, $sql);
                 <li><a href="index.php" class="nav-link">แสดงข้อมูล</a></li>
                 <li><a href="manage_fruit.php" class="nav-link">จัดการข้อมูล</a></li>
                 <li><a href="add_fruit.php" class="nav-link active">เพิ่มผลไม้</a></li>
+                <li><a href="logout.php" class="nav-link active">logout</a></li>
             </ul>
         </div>
     </header>
